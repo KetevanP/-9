@@ -1,0 +1,95 @@
+.logo{
+	margin-left: 99px;
+	margin-top: 24px;
+	display: inline-block;
+	vertical-align: middle;
+}
+nav{
+	display: inline-block;
+	margin-left: 676px;
+	margin-top: 33px;
+}
+li{
+	display: inline-block;
+	margin-right: 50px;
+	color: #636060;
+	font-size: 17px;
+	font-family: Helvetica;
+}
+.parent{
+	position: relative;
+	width: 1440px;
+	height: 606px;
+	margin-top: 16px;
+}
+.child{
+	position: absolute;
+	top: 238px;
+}
+.child h2{
+	color: #FFF;
+	font-size: 79px;
+	font-family: Helvetica;
+	font-weight: 700;
+	margin-left: 407px;
+}
+.child p{
+	margin-top: 31px;
+	margin-left: 553px;
+	color: #FFF;
+	font-size: 19px;
+	font-family: Helvetica;
+}
+.left{
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 84px;
+}
+.left h5{
+	color: #636060;
+	font-size: 17px;
+	font-family: Helvetica;
+}
+.left h3{
+	color: #010101;
+	font-size: 28px;
+	font-family: Helvetica;
+	margin-top: 9px;
+}
+.left p{
+	width: 235px;
+	height: 115px;
+	color: #636060;
+	font-size: 20px;
+	font-family: Helvetica;
+	margin-top: 37px;
+	display: inline-block;
+}
+.Right{
+	display: inline-block;
+	position: absolute;
+	margin-top: 84px;
+	margin-left: 83px;
+}
+.right{
+	position: relative;
+	display: flex;
+	width: 924px;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+.right h4{
+	color: #343232;
+	font-size: 19px;
+	font-family: Helvetica;
+	margin-top: 23px;
+}
+.right p{
+	width: 286px;
+	height: 63px;
+	color: #636060;
+	font-size: 18px;
+	font-family: Helvetica;
+	margin-top: 9px;
+	margin-bottom: 56px;
+}
